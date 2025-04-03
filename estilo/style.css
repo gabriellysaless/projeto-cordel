@@ -29,7 +29,7 @@ header{
 
 header > h1 {
     padding-top: 50px;
-    font-variant: small-caps;
+    font-variant: small-caps; /* transforma letras minúsculas em versões menores das maiúsculas */
     font-family: var(--titulo);
     font-size: 10vw;
 }
